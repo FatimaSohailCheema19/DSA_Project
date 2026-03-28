@@ -8,6 +8,7 @@ The system allows users to create, manage, and organize events efficiently. It d
 ## 🎯 Purpose
 The main goal of this project is to apply DSA concepts in a real-world scenario by building a system that handles event data such as event details, users, and bookings.
 
+
 ## 🧱 Project Structure
 The project includes multiple classes such as:
 
